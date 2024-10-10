@@ -1,6 +1,7 @@
 {
   "name": "mindbox-todo",
   "version": "0.1.0",
+  "homepage": "https://rdavydov.github.io/mindbox-todo",
   "private": true,
   "dependencies": {
     "@types/jest": "^27.5.2",
